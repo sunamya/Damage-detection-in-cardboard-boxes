@@ -1,0 +1,4 @@
+				Accuracy	Precision	Recall		F1 Score
+Cardboard Detection		0.794		0.802		0.781		0.778
+Damage Detection		0.708		0.711		0.766		0.742
+Dimension Measurement		0.721		NA		NA		NA
